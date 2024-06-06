@@ -1,0 +1,307 @@
+Fitting 3 folds for each of 24 candidates, totalling 72 fits
+[CV 1/3] END C=1, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=1, kernel=sigmoid;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=1, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=1, kernel=rbf;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=1, kernel=rbf;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=1, kernel=rbf;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=1, kernel=linear;, score=(train=0.959, test=0.919) total time=   0.0s
+[CV 2/3] END C=1, kernel=linear;, score=(train=0.963, test=0.875) total time=   0.0s
+[CV 3/3] END C=1, kernel=linear;, score=(train=0.972, test=0.881) total time=   0.0s
+[CV 1/3] END C=1, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=1, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=1, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=10, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=10, kernel=sigmoid;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=10, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=10, kernel=rbf;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=10, kernel=rbf;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=10, kernel=rbf;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=10, kernel=linear;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 2/3] END C=10, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 3/3] END C=10, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END C=10, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=10, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=10, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=20, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=20, kernel=sigmoid;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=20, kernel=sigmoid;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=20, kernel=rbf;, score=(train=0.575, test=0.550) total time=   0.0s
+[CV 2/3] END C=20, kernel=rbf;, score=(train=0.666, test=0.631) total time=   0.0s
+[CV 3/3] END C=20, kernel=rbf;, score=(train=0.681, test=0.669) total time=   0.0s
+[CV 1/3] END C=20, kernel=linear;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 2/3] END C=20, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 3/3] END C=20, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END C=20, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=20, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=20, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=30, kernel=sigmoid;, score=(train=0.456, test=0.431) total time=   0.0s
+[CV 2/3] END C=30, kernel=sigmoid;, score=(train=0.456, test=0.456) total time=   0.0s
+[CV 3/3] END C=30, kernel=sigmoid;, score=(train=0.456, test=0.456) total time=   0.0s
+[CV 1/3] END C=30, kernel=rbf;, score=(train=0.688, test=0.675) total time=   0.0s
+[CV 2/3] END C=30, kernel=rbf;, score=(train=0.662, test=0.675) total time=   0.0s
+[CV 3/3] END C=30, kernel=rbf;, score=(train=0.797, test=0.744) total time=   0.0s
+[CV 1/3] END C=30, kernel=linear;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 2/3] END C=30, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 3/3] END C=30, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END C=30, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=30, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=30, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=50, kernel=sigmoid;, score=(train=0.681, test=0.656) total time=   0.0s
+[CV 2/3] END C=50, kernel=sigmoid;, score=(train=0.659, test=0.669) total time=   0.0s
+[CV 3/3] END C=50, kernel=sigmoid;, score=(train=0.772, test=0.744) total time=   0.0s
+[CV 1/3] END C=50, kernel=rbf;, score=(train=0.856, test=0.831) total time=   0.0s
+[CV 2/3] END C=50, kernel=rbf;, score=(train=0.844, test=0.806) total time=   0.0s
+[CV 3/3] END C=50, kernel=rbf;, score=(train=0.894, test=0.794) total time=   0.0s
+[CV 1/3] END C=50, kernel=linear;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 2/3] END C=50, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 3/3] END C=50, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END C=50, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=50, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=50, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 1/3] END C=100, kernel=sigmoid;, score=(train=0.856, test=0.831) total time=   0.0s
+[CV 2/3] END C=100, kernel=sigmoid;, score=(train=0.844, test=0.806) total time=   0.0s
+[CV 3/3] END C=100, kernel=sigmoid;, score=(train=0.894, test=0.794) total time=   0.0s
+[CV 1/3] END C=100, kernel=rbf;, score=(train=0.928, test=0.863) total time=   0.0s
+[CV 2/3] END C=100, kernel=rbf;, score=(train=0.922, test=0.838) total time=   0.0s
+[CV 3/3] END C=100, kernel=rbf;, score=(train=0.919, test=0.831) total time=   0.0s
+[CV 1/3] END C=100, kernel=linear;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 2/3] END C=100, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 3/3] END C=100, kernel=linear;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END C=100, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+[CV 2/3] END C=100, kernel=poly;, score=(train=0.331, test=0.338) total time=   0.0s
+[CV 3/3] END C=100, kernel=poly;, score=(train=0.334, test=0.331) total time=   0.0s
+Fitting 3 folds for each of 14 candidates, totalling 42 fits
+[CV 1/3] END n_estimators=1;, score=(train=0.878, test=0.706) total time=   0.0s
+[CV 2/3] END n_estimators=1;, score=(train=0.853, test=0.725) total time=   0.0s
+[CV 3/3] END n_estimators=1;, score=(train=0.897, test=0.675) total time=   0.0s
+[CV 1/3] END n_estimators=5;, score=(train=0.984, test=0.787) total time=   0.0s
+[CV 2/3] END n_estimators=5;, score=(train=0.984, test=0.812) total time=   0.0s
+[CV 3/3] END n_estimators=5;, score=(train=0.988, test=0.775) total time=   0.0s
+[CV 1/3] END n_estimators=10;, score=(train=0.997, test=0.838) total time=   0.0s
+[CV 2/3] END n_estimators=10;, score=(train=0.991, test=0.875) total time=   0.0s
+[CV 3/3] END n_estimators=10;, score=(train=0.997, test=0.869) total time=   0.0s
+[CV 1/3] END n_estimators=50;, score=(train=1.000, test=0.887) total time=   0.0s
+[CV 2/3] END n_estimators=50;, score=(train=1.000, test=0.894) total time=   0.0s
+[CV 3/3] END n_estimators=50;, score=(train=1.000, test=0.887) total time=   0.0s
+[CV 1/3] END n_estimators=100;, score=(train=1.000, test=0.881) total time=   0.0s
+[CV 2/3] END n_estimators=100;, score=(train=1.000, test=0.881) total time=   0.0s
+[CV 3/3] END n_estimators=100;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 1/3] END n_estimators=200;, score=(train=1.000, test=0.881) total time=   0.2s
+[CV 2/3] END n_estimators=200;, score=(train=1.000, test=0.900) total time=   0.2s
+[CV 3/3] END n_estimators=200;, score=(train=1.000, test=0.925) total time=   0.2s
+[CV 1/3] END n_estimators=300;, score=(train=1.000, test=0.881) total time=   0.3s
+[CV 2/3] END n_estimators=300;, score=(train=1.000, test=0.894) total time=   0.3s
+[CV 3/3] END n_estimators=300;, score=(train=1.000, test=0.919) total time=   0.3s
+[CV 1/3] END n_estimators=400;, score=(train=1.000, test=0.881) total time=   0.4s
+[CV 2/3] END n_estimators=400;, score=(train=1.000, test=0.887) total time=   0.4s
+[CV 3/3] END n_estimators=400;, score=(train=1.000, test=0.925) total time=   0.4s
+[CV 1/3] END n_estimators=500;, score=(train=1.000, test=0.887) total time=   0.5s
+[CV 2/3] END n_estimators=500;, score=(train=1.000, test=0.900) total time=   0.6s
+[CV 3/3] END n_estimators=500;, score=(train=1.000, test=0.925) total time=   0.5s
+[CV 1/3] END n_estimators=600;, score=(train=1.000, test=0.887) total time=   0.7s
+[CV 2/3] END n_estimators=600;, score=(train=1.000, test=0.894) total time=   0.7s
+[CV 3/3] END n_estimators=600;, score=(train=1.000, test=0.919) total time=   0.7s
+[CV 1/3] END n_estimators=700;, score=(train=1.000, test=0.887) total time=   0.8s
+[CV 2/3] END n_estimators=700;, score=(train=1.000, test=0.887) total time=   0.8s
+[CV 3/3] END n_estimators=700;, score=(train=1.000, test=0.912) total time=   0.8s
+[CV 1/3] END n_estimators=800;, score=(train=1.000, test=0.887) total time=   1.0s
+[CV 2/3] END n_estimators=800;, score=(train=1.000, test=0.900) total time=   0.9s
+[CV 3/3] END n_estimators=800;, score=(train=1.000, test=0.925) total time=   0.9s
+[CV 1/3] END n_estimators=900;, score=(train=1.000, test=0.887) total time=   1.1s
+[CV 2/3] END n_estimators=900;, score=(train=1.000, test=0.894) total time=   1.1s
+[CV 3/3] END n_estimators=900;, score=(train=1.000, test=0.919) total time=   1.2s
+[CV 1/3] END n_estimators=1000;, score=(train=1.000, test=0.887) total time=   1.3s
+[CV 2/3] END n_estimators=1000;, score=(train=1.000, test=0.894) total time=   1.3s
+[CV 3/3] END n_estimators=1000;, score=(train=1.000, test=0.925) total time=   1.3s
+Fitting 3 folds for each of 5 candidates, totalling 15 fits
+[CV 1/3] END ...........C=1;, score=(train=0.922, test=0.894) total time=   0.0s
+[CV 2/3] END ...........C=1;, score=(train=0.944, test=0.850) total time=   0.0s
+[CV 3/3] END ...........C=1;, score=(train=0.947, test=0.850) total time=   0.0s
+[CV 1/3] END ...........C=5;, score=(train=0.988, test=0.912) total time=   0.0s
+[CV 2/3] END ...........C=5;, score=(train=0.978, test=0.863) total time=   0.0s
+[CV 3/3] END ...........C=5;, score=(train=0.984, test=0.863) total time=   0.0s
+[CV 1/3] END ..........C=10;, score=(train=0.997, test=0.906) total time=   0.0s
+[CV 2/3] END ..........C=10;, score=(train=0.988, test=0.869) total time=   0.0s
+[CV 3/3] END ..........C=10;, score=(train=0.997, test=0.875) total time=   0.0s
+[CV 1/3] END ..........C=50;, score=(train=1.000, test=0.906) total time=   0.0s
+[CV 2/3] END ..........C=50;, score=(train=1.000, test=0.850) total time=   0.0s
+[CV 3/3] END ..........C=50;, score=(train=1.000, test=0.875) total time=   0.0s
+[CV 1/3] END .........C=100;, score=(train=1.000, test=0.912) total time=   0.0s
+[CV 2/3] END .........C=100;, score=(train=1.000, test=0.856) total time=   0.0s
+[CV 3/3] END .........C=100;, score=(train=1.000, test=0.869) total time=   0.0s
+Fitting 3 folds for each of 56 candidates, totalling 168 fits
+[CV 1/3] END metric=minkowski, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=1;, score=(train=1.000, test=0.850) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=3;, score=(train=0.928, test=0.875) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=3;, score=(train=0.909, test=0.856) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=3;, score=(train=0.931, test=0.844) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=5;, score=(train=0.903, test=0.850) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=5;, score=(train=0.919, test=0.875) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=5;, score=(train=0.928, test=0.850) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=7;, score=(train=0.872, test=0.844) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=7;, score=(train=0.894, test=0.844) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=7;, score=(train=0.925, test=0.850) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=9;, score=(train=0.878, test=0.838) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=9;, score=(train=0.900, test=0.856) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=9;, score=(train=0.912, test=0.831) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=11;, score=(train=0.875, test=0.881) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=11;, score=(train=0.891, test=0.850) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=11;, score=(train=0.881, test=0.844) total time=   0.0s
+[CV 1/3] END metric=minkowski, n_neighbors=13;, score=(train=0.869, test=0.850) total time=   0.0s
+[CV 2/3] END metric=minkowski, n_neighbors=13;, score=(train=0.878, test=0.831) total time=   0.0s
+[CV 3/3] END metric=minkowski, n_neighbors=13;, score=(train=0.884, test=0.819) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=1;, score=(train=1.000, test=0.850) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=3;, score=(train=0.928, test=0.875) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=3;, score=(train=0.909, test=0.856) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=3;, score=(train=0.931, test=0.844) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=5;, score=(train=0.903, test=0.850) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=5;, score=(train=0.919, test=0.875) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=5;, score=(train=0.928, test=0.850) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=7;, score=(train=0.872, test=0.844) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=7;, score=(train=0.894, test=0.844) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=7;, score=(train=0.925, test=0.850) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=9;, score=(train=0.878, test=0.838) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=9;, score=(train=0.900, test=0.856) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=9;, score=(train=0.912, test=0.831) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=11;, score=(train=0.875, test=0.881) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=11;, score=(train=0.891, test=0.850) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=11;, score=(train=0.881, test=0.844) total time=   0.0s
+[CV 1/3] END metric=euclidean, n_neighbors=13;, score=(train=0.869, test=0.850) total time=   0.0s
+[CV 2/3] END metric=euclidean, n_neighbors=13;, score=(train=0.878, test=0.831) total time=   0.0s
+[CV 3/3] END metric=euclidean, n_neighbors=13;, score=(train=0.884, test=0.819) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=1;, score=(train=1.000, test=0.825) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=1;, score=(train=1.000, test=0.831) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=1;, score=(train=1.000, test=0.806) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=3;, score=(train=0.887, test=0.800) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=3;, score=(train=0.869, test=0.819) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=3;, score=(train=0.869, test=0.756) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=5;, score=(train=0.806, test=0.762) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=5;, score=(train=0.803, test=0.744) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=5;, score=(train=0.800, test=0.756) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=7;, score=(train=0.778, test=0.738) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=7;, score=(train=0.781, test=0.731) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=7;, score=(train=0.794, test=0.713) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=9;, score=(train=0.759, test=0.700) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=9;, score=(train=0.734, test=0.738) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=9;, score=(train=0.762, test=0.681) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=11;, score=(train=0.731, test=0.681) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=11;, score=(train=0.716, test=0.694) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=11;, score=(train=0.725, test=0.662) total time=   0.0s
+[CV 1/3] END metric=manhattan, n_neighbors=13;, score=(train=0.706, test=0.656) total time=   0.0s
+[CV 2/3] END metric=manhattan, n_neighbors=13;, score=(train=0.709, test=0.681) total time=   0.0s
+[CV 3/3] END metric=manhattan, n_neighbors=13;, score=(train=0.703, test=0.637) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=1;, score=(train=1.000, test=0.794) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=1;, score=(train=1.000, test=0.775) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=1;, score=(train=1.000, test=0.750) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=3;, score=(train=0.863, test=0.762) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=3;, score=(train=0.863, test=0.787) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=3;, score=(train=0.866, test=0.750) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=5;, score=(train=0.841, test=0.762) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=5;, score=(train=0.859, test=0.800) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=5;, score=(train=0.844, test=0.744) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=7;, score=(train=0.800, test=0.769) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=7;, score=(train=0.831, test=0.775) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=7;, score=(train=0.819, test=0.744) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=9;, score=(train=0.772, test=0.775) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=9;, score=(train=0.794, test=0.750) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=9;, score=(train=0.800, test=0.725) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=11;, score=(train=0.772, test=0.769) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=11;, score=(train=0.791, test=0.719) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=11;, score=(train=0.781, test=0.731) total time=   0.0s
+[CV 1/3] END metric=chebyshev, n_neighbors=13;, score=(train=0.738, test=0.738) total time=   0.0s
+[CV 2/3] END metric=chebyshev, n_neighbors=13;, score=(train=0.794, test=0.731) total time=   0.0s
+[CV 3/3] END metric=chebyshev, n_neighbors=13;, score=(train=0.772, test=0.713) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=1;, score=(train=1.000, test=0.850) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=1;, score=(train=1.000, test=0.869) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=3;, score=(train=0.928, test=0.875) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=3;, score=(train=0.909, test=0.856) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=3;, score=(train=0.931, test=0.844) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=5;, score=(train=0.903, test=0.850) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=5;, score=(train=0.919, test=0.875) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=5;, score=(train=0.928, test=0.850) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=7;, score=(train=0.872, test=0.844) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=7;, score=(train=0.894, test=0.844) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=7;, score=(train=0.925, test=0.850) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=9;, score=(train=0.878, test=0.838) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=9;, score=(train=0.900, test=0.856) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=9;, score=(train=0.912, test=0.831) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=11;, score=(train=0.875, test=0.881) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=11;, score=(train=0.891, test=0.850) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=11;, score=(train=0.881, test=0.844) total time=   0.0s
+[CV 1/3] END metric=cosine, n_neighbors=13;, score=(train=0.869, test=0.850) total time=   0.0s
+[CV 2/3] END metric=cosine, n_neighbors=13;, score=(train=0.878, test=0.831) total time=   0.0s
+[CV 3/3] END metric=cosine, n_neighbors=13;, score=(train=0.884, test=0.819) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=1;, score=(train=1.000, test=0.537) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=1;, score=(train=1.000, test=0.562) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=1;, score=(train=1.000, test=0.531) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=3;, score=(train=0.647, test=0.531) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=3;, score=(train=0.650, test=0.575) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=3;, score=(train=0.622, test=0.487) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=5;, score=(train=0.578, test=0.481) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=5;, score=(train=0.553, test=0.531) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=5;, score=(train=0.559, test=0.494) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=7;, score=(train=0.525, test=0.475) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=7;, score=(train=0.519, test=0.525) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=7;, score=(train=0.544, test=0.469) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=9;, score=(train=0.500, test=0.475) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=9;, score=(train=0.516, test=0.506) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=9;, score=(train=0.534, test=0.469) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=11;, score=(train=0.494, test=0.475) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=11;, score=(train=0.497, test=0.500) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=11;, score=(train=0.519, test=0.438) total time=   0.0s
+[CV 1/3] END metric=hamming, n_neighbors=13;, score=(train=0.478, test=0.450) total time=   0.0s
+[CV 2/3] END metric=hamming, n_neighbors=13;, score=(train=0.475, test=0.481) total time=   0.0s
+[CV 3/3] END metric=hamming, n_neighbors=13;, score=(train=0.494, test=0.425) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=1;, score=(train=1.000, test=0.794) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=1;, score=(train=1.000, test=0.844) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=1;, score=(train=1.000, test=0.700) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=3;, score=(train=0.875, test=0.794) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=3;, score=(train=0.875, test=0.806) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=3;, score=(train=0.881, test=0.731) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=5;, score=(train=0.831, test=0.781) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=5;, score=(train=0.853, test=0.819) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=5;, score=(train=0.828, test=0.731) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=7;, score=(train=0.803, test=0.762) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=7;, score=(train=0.812, test=0.787) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=7;, score=(train=0.809, test=0.744) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=9;, score=(train=0.784, test=0.750) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=9;, score=(train=0.778, test=0.762) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=9;, score=(train=0.784, test=0.738) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=11;, score=(train=0.762, test=0.731) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=11;, score=(train=0.762, test=0.756) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=11;, score=(train=0.775, test=0.694) total time=   0.0s
+[CV 1/3] END metric=canberra, n_neighbors=13;, score=(train=0.756, test=0.713) total time=   0.0s
+[CV 2/3] END metric=canberra, n_neighbors=13;, score=(train=0.738, test=0.744) total time=   0.0s
+[CV 3/3] END metric=canberra, n_neighbors=13;, score=(train=0.756, test=0.700) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=1;, score=(train=1.000, test=0.906) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=1;, score=(train=1.000, test=0.919) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=1;, score=(train=1.000, test=0.881) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=3;, score=(train=0.947, test=0.919) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=3;, score=(train=0.944, test=0.919) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=3;, score=(train=0.959, test=0.887) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=5;, score=(train=0.953, test=0.919) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=5;, score=(train=0.941, test=0.919) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=5;, score=(train=0.944, test=0.906) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=7;, score=(train=0.928, test=0.894) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=7;, score=(train=0.941, test=0.887) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=7;, score=(train=0.941, test=0.919) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=9;, score=(train=0.934, test=0.900) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=9;, score=(train=0.938, test=0.912) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=9;, score=(train=0.956, test=0.906) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=11;, score=(train=0.916, test=0.887) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=11;, score=(train=0.919, test=0.912) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=11;, score=(train=0.941, test=0.875) total time=   0.0s
+[CV 1/3] END metric=braycurtis, n_neighbors=13;, score=(train=0.919, test=0.906) total time=   0.0s
+[CV 2/3] END metric=braycurtis, n_neighbors=13;, score=(train=0.922, test=0.906) total time=   0.0s
+[CV 3/3] END metric=braycurtis, n_neighbors=13;, score=(train=0.912, test=0.894) total time=   0.0s
+
+                 model  best_score                                 best_params
+0                  svm    0.891667                {'C': 1, 'kernel': 'linear'}
+1        random_forest    0.904167                       {'n_estimators': 500}
+2  logistic_regression    0.883333                                   {'C': 10}
+3                  KNN    0.914583  {'metric': 'braycurtis', 'n_neighbors': 5}
