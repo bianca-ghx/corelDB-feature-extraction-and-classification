@@ -12,17 +12,4 @@ This project focuses on the extraction and classification of features from the C
 - `proiect-cppsms.ipynb`: Jupyter notebook containing the project code.
 - `statistical_analysis.ipynb`: Jupyter notebook for statistical analysis of the dataset.
 
-## Getting Started
 
-### Prerequisites
-
-Ensure you have the following installed:
-- Python 3.x
-- Jupyter Notebook
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/bianca-ghx/corelDB-feature-extraction-and-classification.git
