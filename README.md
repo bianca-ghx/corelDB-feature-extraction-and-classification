@@ -1,15 +1,29 @@
 # CorelDB Feature Extraction and Classification
 
-## Overview
+This project was developed to extract features from the Corel Image Database (CorelDB) and classify the images using machine learning techniques. The purpose of this project is to implement a feature extraction and classification system using various feature descriptors and classifiers.
 
-This project focuses on the extraction and classification of features from the CorelDB dataset. It includes scripts and notebooks to perform various statistical analyses and classification tasks.
+## Installation
+To install and run this project, follow these steps:
 
-## Repository Structure
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/bianca-ghx/corelDB-feature-extraction-and-classification.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd corelDB-feature-extraction-and-classification
+    ```
+3. Ensure you have Python and the required libraries installed. 
 
-- `rezultate/`: Directory containing result files from the analysis.
-- `.gitignore`: Specifies files to be ignored by git.
-- `CorelDB_Classification_Article.pdf`: A detailed article explaining the project methodology.
-- `proiect-cppsms.ipynb`: Jupyter notebook containing the project code.
-- `statistical_analysis.ipynb`: Jupyter notebook for statistical analysis of the dataset.
+## Usage
+To use the CorelDB feature extraction and classification system, follow these instructions:
+
+1. Prepare your dataset by placing the CorelDB images in the appropriate directories as specified in the project.
+2. For the statistical analysis part, use the `statistical_analysis.ipynb` notebook.
+3. Fot the image classification task, use the `proiect-cppsms.ipynb` notebook.
+
+
+## Acknowledgements
+This project was developed for the "Probability calculation, stochastic processes, stochastic modeling" course at POLITEHNICA Bucharest National University of Science and Technology to explore image classification techniques using the CorelDB dataset
 
 
